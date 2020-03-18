@@ -21,7 +21,6 @@ class HappyArray {
                 previousItem + nextItem >= item
             }.toIntArray()
         }
-        return result
-        //throw NotImplementedError("Not implemented")
+        throw NotImplementedError("Not implemented")
     }
 }
